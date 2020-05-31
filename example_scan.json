@@ -1,0 +1,719 @@
+{
+    "children":[
+       {
+          "name":"America",
+          "size":12
+       },
+       {
+          "children":[
+             {
+                "name":"America del Norte",
+                "size":2
+             },{"children":[
+               {
+                 "name": "Estado Unidos",
+                 "size": 1
+               },
+               {
+                 "name": "Mexico    ",
+                 "size":1
+               },
+               {
+                 "name":"Canada",
+                 "size":1
+               },
+               {
+                 "name":"Groenlandia",
+                 "size":1
+               }
+               
+             ]},
+             {
+                "name":"America del Sur",
+                "size":3
+             },{"children":[
+               {
+                 "name": "Colombia",
+                 "size": 1
+               },
+               {
+                 "name": "Venezuela",
+                 "size":1
+               },
+               {
+                 "name":"Bolivia",
+                 "size":1
+               },
+               {
+                 "name":"Brasil",
+                 "size": 1
+               },
+               {
+                 "name":"Ecuador",
+                 "size":1
+               },
+               {
+                 "name":"Perú",
+                 "size":1
+               },
+               {
+                 "name":"Guyana",
+                 "size":1
+               },
+               {
+                 "name":"Surinam",
+                 "size":1
+               },
+               {
+                 "name":"Chile",
+                 "size":1
+               },
+                {
+                 "name":"Argentina",
+                 "size":1
+               },
+               {
+                 "name":"Uruguay",
+                 "size":1
+               },
+              {
+                 "name":"Paraguay",
+                 "size":1
+               }
+               
+             ]},
+             {
+                "name":"America Central",
+                "size":2
+             },{"children":[
+               {
+                 "name":"Belice",
+                 "size":1
+               },
+               {
+                 "name": "Costa Rica",
+                 "size":1
+               },
+               {
+                 "name": "El Salvador",
+                 "size":1
+               },
+               {
+                 "name":"Guatemala",
+                 "size":1
+               },
+               {
+                 "name": "Honduras",
+                 "size":1
+               },{
+                 "name":"Nicaragua",
+                 "size":1
+               },{
+                 "name": "Panamá",
+                 "size": 1
+               }
+               
+               
+             ]},           {
+                "name":"Caribe",
+                "size":2
+             },{"children":[
+               {
+                 "name":"Anguila",
+                 "size":1
+               },
+               {
+                 "name": "Aruba",
+                 "size":1
+               },
+               {
+                 "name": "Bahamas",
+                 "size":1
+               },
+               {
+                 "name":"Cuba",
+                 "size":1
+               },
+               {
+                 "name": "Dominica",
+                 "size":1
+               },{
+                 "name":"Haití",
+                 "size":1
+               },{
+                 "name": "Jamaica",
+                 "size": 1
+           
+               }
+               ,{
+                 "name": "Trinidad y Tobago",
+                 "size": 1
+              
+               },{
+                 "name": "República Dominicana",
+                 "size": 1
+                 
+               }
+               
+               
+             ]}
+
+          ]
+       },
+       {
+         "name":"Africa",
+         "size":10
+       },{"children":[
+               {
+                 "name":"Central",
+                 "size":2
+               },{"children":[
+               {
+                 "name": "Angola",
+                 "size":1
+               },
+               {
+                 "name": "Camerún  ",
+                 "size":1
+               },
+               {
+                 "name":"Congo  ",
+                 "size":1
+               },
+               {
+                 "name": "Gabón  ",
+                 "size":1
+               },{
+                 "name":"Guinea ",
+                 "size":1
+               },{
+                 "name": "Congo  ",
+                 "size": 1
+           
+               },{
+                 "name": "Chad    ",
+                 "size": 1
+           
+               }]}
+               ,{
+                 "name": "Meridional",
+                 "size": 2
+              
+               },{"children":[{
+                 "name": "Botswana  ",
+                 "size": 1
+                 
+               },               {
+                 "name": "Lesotho  ",
+                 "size":1
+               },{
+                 "name":"Namibia  ",
+                 "size":1
+               },{
+                 "name": "Sudáfrica  ",
+                 "size": 1
+           
+               }
+               ,{
+                 "name": "Swazilandia  ",
+                 "size": 1
+              
+               }]},               
+               {  
+                 "name": "Occidental",
+                 "size":2
+               },{"children":[{
+                 "name":"Benin",
+                 "size":1
+               },{
+                 "name": "Cabo Verde",
+                 "size": 1
+           
+               }
+               ,{
+                 "name": "Costa de Marfil",
+                 "size": 1
+              
+               },{
+                 "name": "Gambia",
+                 "size": 1
+                 
+               },{
+                 "name": "Ghana",
+                 "size": 1
+                 
+               },{
+                 "name": "Guinea",
+                 "size": 1
+                 
+               },               {
+                 "name": "Liberia",
+                 "size":1
+               },{
+                 "name":"Nigeria",
+                 "size":1
+               },{
+                 "name": "Senegal",
+                 "size": 1
+           
+               }]}
+               ,{
+                 "name": "Oriental",
+                 "size": 2
+              
+               },{"children":[{
+                 "name": "Burundi  ",
+                 "size": 1
+                 
+               },{
+                 "name": "Etiopía  ",
+                 "size": 1
+                 
+               },               {
+                 "name": "Kenia  ",
+                 "size":1
+               },{
+                 "name":"Madagascar  ",
+                 "size":1
+               },{
+                 "name": "Mauricio",
+                 "size": 1
+           
+               }
+               ,{
+                 "name": "Mozambique",
+                 "size": 1
+              
+               },{
+                 "name": "Somalia",
+                 "size": 1
+                 
+               },{
+                 "name": "Tanzania",
+                 "size": 1
+           
+               }
+               ,{
+                 "name": "Tanzania",
+                 "size": 1
+              
+               },{
+                 "name": "Zambia",
+                 "size": 1
+                 
+               }
+             ]},
+             {
+               "name": "Septentrional",
+               "size": 2
+             },{"children":[
+             {
+               "name":"Argelia",
+               "size": 1
+             },             {
+               "name":"Egipto",
+               "size": 1
+             },             {
+               "name":"Libia    ",
+               "size": 1
+             },             {
+               "name":"Marruecos",
+               "size": 1
+             },             {
+               "name":"Sudán",
+               "size": 1
+             },             {
+               "name":"Túnez",
+               "size": 1
+             }
+             ]}
+               
+               
+             ]},
+        {
+          "name": "Oceanía",
+          "size": 12
+        },{"children":[
+        {
+          "name": "Melanesia",
+          "size": 1
+        },{"children":[
+        {
+          "name": "Fiji",
+          "size": 1
+        },        {
+          "name": "Islas Salomón",
+          "size": 1
+        },
+                {
+          "name": "Papúa Nueva Guinea",
+          "size": 1
+        },
+                {
+          "name": "Vanuatu",
+          "size": 1
+        }
+        ]},{
+          "name": "Micronesia",
+          "size": 1
+        },{"children":[
+        {
+          "name": "Islas Marshall",
+          "size": 1
+        },        {
+          "name": "Kiribati",
+          "size": 1
+        },
+                {
+          "name": "Micronesia",
+          "size": 1
+        },
+                {
+          "name": "Nauru",
+          "size": 1
+        },
+                {
+          "name": "Palaos",
+          "size": 1
+        }  
+        ]},{
+        "name": "Polinesia",
+        "size":1
+        },{"children":[
+        {
+          "name":"Samoa",
+          "size":1
+        },
+                {
+          "name":"Tonga",
+          "size":1
+        },
+                {
+          "name":"Tuvalu",
+          "size":1
+        }
+        ]},
+        {
+          "name":"Australia",
+          "size": 1
+        },{
+          "name":"NZ",
+          "size": 1
+        }
+        ]},{
+          "name":"Asia",
+          "size":10
+        },{"children":[
+          {
+            "name":"Central",
+            "size":3
+          },{"children":[
+          {
+            "name":"Kazajstán",
+            "size":1
+          },          {
+            "name":"Kirguistán",
+            "size":1
+          },          {
+            "name":"Tadyikistán",
+            "size":1
+          },          {
+            "name":"Turkmenistán",
+            "size":1
+          },          {
+            "name":"Uzbekistán",
+            "size":1
+          }
+        ]},{
+          "name": "Meridional",
+          "size": 3       
+        },{"children":[
+        {
+          "name":"Afganistán",
+          "size":1
+        },        {
+          "name":"Bangladesh",
+          "size":1
+        },
+                {
+          "name":"Bhután",
+          "size":1
+        },        {
+          "name":"India",
+          "size":1
+        },        {
+          "name":"Irán    ",
+          "size":1
+        },        {
+          "name":"Maldivas",
+          "size":1
+        },        {
+          "name":"Nepal",
+          "size":1
+        },        {
+          "name":"Pakistán",
+          "size":1
+        },        {
+          "name":"Sri Lanka",
+          "size":1
+        }
+      ]},{
+        "name":"Occidental",
+        "size": 3
+      },{"children":[
+      {
+        "name":"Armenia",
+        "size": 1
+      } ,     {
+        "name":"Emiratos Árabes Unidos",
+        "size": 1
+      },      {
+        "name":"Georgia",
+        "size": 1
+      } ,     {
+        "name":"Iraq",
+        "size": 1
+      },      {
+        "name":"Israel",
+        "size": 1
+      },      {
+        "name":"Jordania",
+        "size": 1
+      } ,     {
+        "name":"Líbano",
+        "size": 1
+      },      {
+        "name":"Qatar",
+        "size": 1
+      } ,     {
+        "name":"Siria",
+        "size": 1
+      } ,     {
+        "name":"Turquía",
+        "size": 1
+      } ,     {
+        "name":"Kuwait",
+        "size": 1
+      },      {
+        "name":"Yemen",
+        "size": 1
+      },      {
+        "name":"Georgia",
+        "size": 1
+      } ,     {
+        "name":"Omán",
+        "size": 1
+      }
+    ]},{
+      "name": "Oriental",
+      "size": 3
+    },{"children":[
+    {
+      "name":"Corea del Norte",
+      "size":1
+    },    {
+      "name":"Corea del Sur",
+      "size":1
+    },
+        {
+      "name":"Japón    ",
+      "size":1
+    },    {
+      "name":"Mongolia",
+      "size":1
+    },    {
+      "name":"China    ",
+      "size":1
+    },    {
+      "name":"Taiwán",
+      "size":1
+    }
+  ]},{
+    "name":"Sudoriental",
+    "size":3
+  },{"children":[
+  {
+    "name":"Camboya",
+    "size":1
+  },  {
+    "name":"Filipinas",
+    "size":1
+  },  {
+    "name":"Indonesia",
+    "size":1
+  },  {
+    "name":"Laos",
+    "size":1
+  },  {
+    "name":"Malasia",
+    "size":1
+  },  {
+    "name":"Myanmar",
+    "size":1
+  },  {
+    "name":"Singapur",
+    "size":1
+  },  {
+    "name":"Tailandia",
+    "size":1
+  },  {
+    "name":"Vietnam",
+    "size":1
+  }
+]}
+        ]},{
+          "name":"Europa",
+          "size":10
+        },{"children":[
+        {
+          "name":"Meridional",
+          "size":3
+        },{"children":[
+        {
+          "name":"Albania",
+          "size":1
+        },
+                {
+          "name":"Andorra",
+          "size":1
+        },
+                {
+          "name":"Bosnia y Herzegovina",
+          "size":1
+        },        {
+          "name":"Croacia",
+          "size":1
+        },        {
+          "name":"Eslovenia",
+          "size":1
+        },        {
+          "name":"España",
+          "size":1
+        },        {
+          "name":"Grecia",
+          "size":1
+        },        {
+          "name":"Italia",
+          "size":1
+        },        {
+          "name":"Montenegro",
+          "size":1
+        },        {
+          "name":"Portugal",
+          "size":1
+        },        {
+          "name":"Serbia",
+          "size":1
+        }
+        ]},
+        {
+          "name":"Occidental",
+          "size": 3
+        },{"children":[
+        {
+          "name":"Alemania",
+          "size":1
+        },        {
+          "name":"Austria",
+          "size":1
+        },        {
+          "name":"Bélgica",
+          "size":1
+        },        {
+          "name":"Francia",
+          "size":1
+        },        {
+          "name":"Luxemburgo",
+          "size":1
+        },        {
+          "name":"Liechtenstein",
+          "size":1
+        },        {
+          "name":"Mónaco",
+          "size":1
+        },        {
+          "name":"Países Bajos",
+          "size":1
+        },        {
+          "name":"Suiza",
+          "size":1
+        }
+      ]},{
+        "name": "Oriental",
+        "size":3},
+        {"children":[
+        {
+          "name":"Belarús",
+          "size":1
+        },        {
+          "name":"Bulgaria",
+          "size":1
+        }  ,      {
+          "name":"Hungría",
+          "size":1
+        }   ,     {
+          "name":"Moldavia",
+          "size":1
+        }    ,    {
+          "name":"Polonia",
+          "size":1
+        }     ,   {
+          "name":"República Checa",
+          "size":1
+        }      ,  {
+          "name":"República Eslovaca",
+          "size":1
+        }       , {
+          "name":"Rumanía",
+          "size":1
+        }        ,{
+          "name":"Rusia",
+          "size":1
+        }       , {
+          "name":"Ucrania",
+          "size":1
+        }
+      ]},{
+        "name":"Septentrional",
+        "size":3
+      },{"children":[
+      {
+        "name":"Dinamarca",
+        "size":1
+      },      {
+        "name":"Estonia",
+        "size":1
+      },      {
+        "name":"Finlandia",
+        "size":1
+      },      {
+        "name":"Irlanda",
+        "size":1
+      },      {
+        "name":"Islandia",
+        "size":1
+      },      {
+        "name":"Letonia",
+        "size":1
+      },      {
+        "name":"Lituania",
+        "size":1
+      },      {
+        "name":"Noruega",
+        "size":1
+      },      {
+        "name":"Reino Unido",
+        "size":1
+      },      {
+        "name":"Suecia",
+        "size":1
+      }
+    ]}
+      
+        
+        ]}
+    
+        
+       
+    ]
+ }
